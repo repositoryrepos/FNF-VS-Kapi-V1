@@ -4,7 +4,7 @@
 
 Source code for VS Kapi V1.
 
-this one is a modified version by playz132 but still the same songs + Bonus week.
+this one is a modified version by @FirePlayz132 but still the same songs + Bonus week.
 anyway click the link and support more games like this at https://ublockedslackrr.github.io./
 
 
