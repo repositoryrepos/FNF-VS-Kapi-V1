@@ -4,7 +4,8 @@
 
 Source code for VS Kapi V1.
 
-It turns out the original drive link for the v1 source was still up (even though it isn't on the gamebanana page anymore; thanks wayback machine)
-So I'm uploading the source here for easy access lmao.
+this one is a modified version by playz132 but still the same songs + Bonus week.
+anyway click the link and support more games like this at ![Slackrr Games](https://ublockedslackrr.github.io./)
+
 
 Mod by Paperkitty.
